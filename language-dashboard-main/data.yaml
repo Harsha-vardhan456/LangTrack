@@ -1,0 +1,51 @@
+bun:
+  # https://github.com/oven-sh/bun/releases
+  cycle: "1.2.13"
+  releaseDate: "2025-05-10"
+c:
+  cycle: "23.0"
+  releaseDate: "2024-10-31"
+clojure:
+  # https://github.com/clojure/clojure/tags
+  cycle: "1.12.0"
+  releaseDate: "2022-09-06"
+cpp:
+  cycle: "23.0"
+  releaseDate: "2023-12-01"
+crystal:
+  # https://github.com/crystal-lang/crystal/releases
+  cycle: "1.14.0"
+  releaseDate: "2024-10-09"
+dart:
+  # https://github.com/dart-lang/sdk/tags
+  # stable release version data from: https://dart.dev/get-dart
+  cycle: "3.5.4"
+  releaseDate: "2024-10-17"
+gleam:
+  # https://github.com/gleam-lang/gleam/releases
+  cycle: "1.11.1"
+  releaseDate: "2025-06-06"
+haskell:
+  # https://www.haskell.org/ghc/download.html (Stable Release)
+  cycle: "9.10.1"
+  releaseDate: "2024-05-10"
+nim:
+  # https://github.com/nim-lang/Nim/tags
+  cycle: "2.2.0"
+  releaseDate: "2024-10-02"
+ocaml:
+  # https://github.com/ocaml/ocaml/releases
+  cycle: "5.3.0"
+  releaseDate: "2025-01-08"
+odin:
+  # https://github.com/odin-lang/Odin/releases
+  cycle: "2025.4"
+  releaseDate: "2025-04-04"
+swift:
+  # https://github.com/swiftlang/swift/releases
+  cycle: "6.0.2"
+  releaseDate: "2024-10-28"
+zig:
+  # https://github.com/ziglang/zig/releases
+  cycle: "0.14.0"
+  releaseDate: "2025-03-05"
